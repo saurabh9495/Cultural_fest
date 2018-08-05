@@ -1,0 +1,6 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+div { width: 50%; height: 50%; float: left; }
+#div1 { background-image: url(tajmahal.jpg);}
+#div2 { background: url(gatewayofindia.jpg); }
+#div3 { background: url(kumbhalgarh.jpg); }
+#div4 { background: url(ashokapillar.jpg); }
